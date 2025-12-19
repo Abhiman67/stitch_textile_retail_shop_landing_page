@@ -58,13 +58,5 @@ Deployed on Vercel. Push changes to your git repository and Vercel will automati
 - **Typography**: Manrope (body), Playfair Display (headings)
 - **Spacing Scale**: 20/24/32 rhythm
 
-## Browser Support
 
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-
----
-
-Built with ❤️ for premium textile retail
+Built by Abhiman67
